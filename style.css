@@ -111,6 +111,9 @@ div.content {
 
 @media screen and (min-width: 450px) {
 #head {
-  left: 00px;
+  
 }
+}
+#head {
+  color: green;
 }
